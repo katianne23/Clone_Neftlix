@@ -1,6 +1,6 @@
 # Clone_Neftlix
 ## Clone da Interface da Netflix desenvolvido durante o Bootcamp Inter Frontend Developer 
-### Criei a MyFlix onde tem meus filmes, series e documentários que já assistir com links para acessar a pagina de informações e para assistir.
+### Criei a MyFlix onde tem meus filmes, series e documentários que já assistir com links para acessar a pagina de informações.
 
 
 ## Tecnologias utilizadas
